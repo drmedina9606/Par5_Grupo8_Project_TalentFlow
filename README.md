@@ -155,7 +155,9 @@ En cuanto a compensación y bienestar, se recomienda revisar salarios (especialm
 Finalmente, la empresa debe aplicar un sistema de detección temprana del riesgo de renuncia, basado en métricas como antigüedad, ascensos y desempeño. Esto permite identificar perfiles críticos y actuar preventivamente mediante entrevistas y planes de retención personalizados, reduciendo así la rotación futura.
 
 ---
-**Institución:** ESPOL
+**Institución:** ESPOL - Coding Bootcamps ESPOL
+
+**Programa:** Data Driven Decisions Specialist
 
 **Curso:** Python For Data Analytics
 
