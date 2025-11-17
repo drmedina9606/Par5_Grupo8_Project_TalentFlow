@@ -89,13 +89,13 @@ Permite encontrar patrones de permanencia y renuncia por nivel y cargo.
 ## 4. Análisis Exploratorio (EDA) y Principales Hallazgos
 
 ### 4.1 Rotación General
-
+![Porcentaje Rotación Laboral](visualizaciones/anl_rotacion.png)
 - Más de 1,200 empleados permanecen en la empresa.
 - Cerca de 240 empleados han renunciado, representando ~20%.
 - De continuar la tendencia, la tasa de renuncia podría incrementarse en el futuro.
 
 ### 4.2 Impacto de la rotación laboral por género
-
+![Impacto Rotación por género](visualizaciones/anl_genero.png)
 A nivel macro, esta visualización revela hallazgos relevantes:
 
 - Las renuncias se concentran únicamente en tres departamentos de la empresa.
@@ -109,31 +109,31 @@ A nivel macro, esta visualización revela hallazgos relevantes:
 Este análisis se centra en los niveles 1 y 2, ya que, del total de personas que se van de la empresa, la mayor densidad poblacional se centra en estos dos niveles, por lo que conocer los posibles factores que influyen en estos dos niveles permite tomar futuras decisiones en beneficio de la empresa y actuar de manera preventiva en el grupo más afectado.
 
 #### Edad Promedio
-
+![Comparación Edad promedio Atrittion](visualizaciones/anl_edad.png)
 - En la mayoría de los cargos, quienes renuncian tienen una edad promedio menor que quienes permanecen.
 - La renuncia se concentra en perfiles jóvenes y de menor trayectoria, especialmente en roles operativos.
 - Los empleados de mayor edad muestran mayor estabilidad laboral, reduciendo su probabilidad de renuncia.
 
 #### Ingreso Mensual
-
+![Comparación Ingreso Mensual promedio Atrittion](visualizaciones/anl_ingreso.png)
 - En la mayoría de roles, el ingreso de quienes renuncian es similar o ligeramente inferior, descartando el salario como causa general de salida.
 - En ventas operativas, quienes renuncian presentan ingresos notablemente más bajos, evidenciando riesgo salarial específico.
 - En roles especializados como “Healthcare Representative”, quienes renuncian tienen sueldos más altos, lo que apunta a rotación por factores externos del mercado.
 
 #### Antigüedad Total
-
+![Comparación Antigüedad Total promedio Atrittion](visualizaciones/anl_tiempo_total.png)
 - Los colaboradores que renuncian tienen menos años totales en la empresa, confirmando que la fuga ocurre en etapas iniciales.
 - En roles operativos y comerciales, la brecha entre quienes renuncian y quienes permanecen es superior a los 3 años.
 - Al aumentar la antigüedad, la tasa de renuncia disminuye, indicando una relación directa entre estabilidad y permanencia.
 
 #### Años en el Cargo
-
+![Comparación Antigüedad Cargo promedio Atrittion](visualizaciones/anl_tiempo_cargo.png)
 - La renuncia es mayor entre empleados con poca antigüedad en su posición, reflejando rotación temprana.
 - En todos los roles y niveles, quienes permanecen muestran mayor consolidación en el puesto, evidenciando relación entre experiencia y permanencia.
 - Los cargos de nivel 2 presentan las mayores brechas, lo que indica posibles desafíos en retención en posiciones intermedias.
 
 #### Años desde el Último Ascenso
-
+![Comparación Tiempo Último Ascenso promedio Atrittion](visualizaciones/anl_ultimos_ascenso.png)
 - En la mayoría de los roles, quienes renunciaron acumulaban menos tiempo desde su último ascenso, por lo que la fuga ocurre antes del estancamiento.
 - En cargos técnicos y administrativos se observa una brecha constante, con mayor estabilidad en quienes permanecen.
 - El rol “2-Research Scientist” destaca con un pico atípico de 5 años sin ascenso, lo que sugiere riesgo de estancamiento en puestos especializados.
